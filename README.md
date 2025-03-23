@@ -36,12 +36,19 @@ For more detailed notes, check out the Excalidraw file [here](notes/notes.excali
 ## Repository Structure
 
 📦Scala Learning
+
  ┣ 📂notes
+
  ┃ ┗ [📜notes.excalidraw](notes/notes.excalidraw)
+
  ┣ 📂scala-project-1 ..
+
  ┣ 📂scala-project-2 ..
+
  ┣ 📂scala-project-3 ..
+
  ┗ [📜README.md](README.md)
+ 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
