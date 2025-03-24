@@ -292,7 +292,7 @@
         ],
         [
           140.48086581081992,
-          -16.838989410585995
+          -16.838989410586002
         ],
         [
           86.37779054557924,
@@ -4467,11 +4467,11 @@
         "type": 2
       },
       "seed": 1738036999,
-      "version": 723,
-      "versionNonce": 2147374629,
+      "version": 725,
+      "versionNonce": 1111080491,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1742697232526,
+      "updated": 1742698960772,
       "link": null,
       "locked": false,
       "points": [

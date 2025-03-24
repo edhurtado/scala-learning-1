@@ -48,7 +48,7 @@ For more detailed notes, check out the Excalidraw file [here](notes/notes.excali
  ┣ 📂scala-project-3 ..
 
  ┗ [📜README.md](README.md)
- 
+
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
@@ -70,6 +70,7 @@ This repository is primarily for educational purposes. However, if you have sugg
 - [Functional Program Design in Scala](https://www.coursera.org/learn/scala-functional-program-design)
 - [Parallel programming](https://www.coursera.org/learn/scala-parallel-programming/home/week/1)
 - [Official Scala Documentation](https://docs.scala-lang.org/)
+- [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference//)
 
 
 ## License
